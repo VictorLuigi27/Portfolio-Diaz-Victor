@@ -1,0 +1,17 @@
+body {
+    background-color:#A7E0E0;
+    font-family: "Acme", sans-serif;
+        font-size: 19px;
+        font-weight: 400;
+        font-style: normal;
+        color: #ffffff;
+
+        text-align: center;
+}
+
+p {
+    max-width: 800px;
+    position: relative;
+    left: 28.5%;
+}
+
